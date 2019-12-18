@@ -3,7 +3,7 @@ This module provides wrapper for [Mailgun APIs](https://documentation.mailgun.co
 
 ## Installation
 ```bash
-pip install tm-mailgun
+pip install takeme-mailgun
 ```
 
 ## Usage
