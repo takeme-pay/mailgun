@@ -1,4 +1,4 @@
-# tm-mailgun
+# takeme-mailgun
 This module provides wrapper for [Mailgun APIs](https://documentation.mailgun.com/en/latest/api_reference.html).
 
 ## Installation

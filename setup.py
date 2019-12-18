@@ -5,7 +5,7 @@ with open('README.md') as readme_file:
 
 setuptools.setup(
     name='takeme_mailgun',
-    version='1.0.7',
+    version='1.0.8',
     description='Python Wrapper for Mailgun API',
     long_description=README,
     long_description_content_type='text/markdown',
